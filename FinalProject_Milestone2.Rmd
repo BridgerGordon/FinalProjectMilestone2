@@ -1,0 +1,27 @@
+---
+title: "Final Project Milestone 2"
+author: "Bridger Gordon"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## First Year Blocking Group Project
+
+This project analyzed whether the Harvard housing lottery is truly random and how students form their blocking groups.
+
+Pros: This is a very interesting and particularly relevant topic, as the housing lottery is something a lot of Harvard students spend a lot of time thinking about. The findings can be particularly useful to understand not only the housing lottery but also how students form blocking/friend groups. This project found, for example, that students generally block with people from their entryway/dorm, with other athletes if they are an athlete, or with other international students if they are an international student.
+
+Cons: This project would have required very extensive data gathering and cleaning. I remember when this survey was being done -- where basically every freshman was asked to fill out the form. It also would've required extensive cleaning because people likely would have misspelled names or other details on the open-ended questions to the form. And while it is a pro that this data is super interesting to many students, that also puts an additional burden on the project in that it's findings could be used or misused by many people -- so the group would've needed to be extra cautious they were accurate and presented the data extra clearly so it couldn't be misinterpreted.
+
+## How Couples Meet Project
+
+This project looked at the most common ways couples in the US meet and the demographic characteristics of those couples.
+
+Pros: This too is a super interesting topic, and I think she did a beautiful job of displaying a lot of the data, esp. graphs like frequency of meeting types as a function of age or partners political affiliations. Data comes from a reliable source (SSDS data collection from Stanford) and has a decently large sample size (just under 3000 subjects who had a partner). It also likely didn't require extensive data gathering and cleaning. This project hits a lot of topics at the intersection of relationships and politics, education/class, age, how we meet people, and more. Really fascinating.
+
+Cons: Some of the data groupings seem to be imperfect and since the data comes from other's research, you can't exactly know why they split them up. For example: "met online", "internet", "internet social network", "internet chat", and "internet site" are all separate categories of meeting types, which can make the overall conclusion less accurate. The sample size for same-sex couples is quite a bit smaller too, so it is harder to make conclusions about that group. It doesn't seem to have anything actually answering the question of "how couples stay together" because it doesn't break out relationships by length and/or if they are married couples or not.
+
